@@ -1,0 +1,16 @@
+{
+    "start_time": "Mon_Mar_24_20-59-34_2025",
+    "random_seed": 68,
+    "batch_size": 200,
+    "epochs": 800,
+    "fingerprint_dim": 200,
+    "dropout": 0.03,
+    "radius": 2,
+    "T": 1,
+    "learning_rate": 4,
+    "weight_decay": 4.3,
+    "output_units_num": 1,
+    "tasks": [
+        "Loge EC50"
+    ]
+}
